@@ -1,4 +1,4 @@
-# DataSlush — Talent Recommender (PoC)
+# Talent Recommender (PoC)
 
 A **Proof-of-Concept Talent Recommender System** that matches job postings with top candidates based on skills, location, budget, and experience. Built with **FastAPI** backend and **React** frontend, it provides a modern, interactive interface to explore candidate recommendations.
 
